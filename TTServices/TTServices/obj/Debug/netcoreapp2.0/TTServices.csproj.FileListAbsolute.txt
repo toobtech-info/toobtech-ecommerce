@@ -1,0 +1,11 @@
+F:\toobtech\GitHub\Ecommarce\TTServices\TTServices\bin\Debug\netcoreapp2.0\TTServices.deps.json
+F:\toobtech\GitHub\Ecommarce\TTServices\TTServices\bin\Debug\netcoreapp2.0\TTServices.runtimeconfig.json
+F:\toobtech\GitHub\Ecommarce\TTServices\TTServices\bin\Debug\netcoreapp2.0\TTServices.runtimeconfig.dev.json
+F:\toobtech\GitHub\Ecommarce\TTServices\TTServices\bin\Debug\netcoreapp2.0\TTServices.dll
+F:\toobtech\GitHub\Ecommarce\TTServices\TTServices\bin\Debug\netcoreapp2.0\TTServices.pdb
+F:\toobtech\GitHub\Ecommarce\TTServices\TTServices\obj\Debug\netcoreapp2.0\TTServices.csprojResolveAssemblyReference.cache
+F:\toobtech\GitHub\Ecommarce\TTServices\TTServices\obj\Debug\netcoreapp2.0\TTServices.csproj.CoreCompileInputs.cache
+F:\toobtech\GitHub\Ecommarce\TTServices\TTServices\obj\Debug\netcoreapp2.0\TTServices.AssemblyInfoInputs.cache
+F:\toobtech\GitHub\Ecommarce\TTServices\TTServices\obj\Debug\netcoreapp2.0\TTServices.AssemblyInfo.cs
+F:\toobtech\GitHub\Ecommarce\TTServices\TTServices\obj\Debug\netcoreapp2.0\TTServices.dll
+F:\toobtech\GitHub\Ecommarce\TTServices\TTServices\obj\Debug\netcoreapp2.0\TTServices.pdb

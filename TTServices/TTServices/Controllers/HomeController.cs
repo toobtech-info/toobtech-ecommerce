@@ -11,5 +11,6 @@ namespace TTServices.Controllers
     [Route("api/Home")]
     public class HomeController : Controller
     {
+        //
     }
 }
